@@ -1,0 +1,68 @@
+2024-06-26 13:29:13,697 - INFO - Successfully connected to database: example.db
+2024-06-26 13:29:13,697 - INFO - Successfully connected to database: example.db
+2024-06-26 13:29:13,697 - INFO - Read SQL script from commands.sql
+2024-06-26 13:29:13,702 - INFO - Executed SQL script from commands.sql
+2024-06-26 13:29:13,702 - INFO - Output saved to Output\output.txt
+2024-06-26 13:29:13,703 - INFO - Database connection closed.
+2024-06-26 13:32:33,239 - INFO - Successfully connected to database: example.db
+2024-06-26 13:32:33,240 - INFO - Successfully connected to database: example.db
+2024-06-26 13:32:33,245 - INFO - Executed SQL script from commands.sql
+2024-06-26 13:32:33,308 - INFO - Output saved to Output\output.txt
+2024-06-26 13:32:33,309 - INFO - Database connection closed.
+2024-06-26 13:35:43,360 - INFO - Successfully connected to database: example.db
+2024-06-26 13:35:43,360 - INFO - Successfully connected to database: example.db
+2024-06-26 13:35:43,365 - INFO - Output saved to Output\output.txt
+2024-06-26 13:35:43,366 - INFO - Database connection closed.
+2024-06-26 13:38:29,545 - INFO - Successfully connected to database: example.db
+2024-06-26 13:38:29,546 - INFO - Successfully connected to database: example.db
+2024-06-26 13:38:29,596 - INFO - Output saved to Output\output.txt
+2024-06-26 13:38:29,597 - INFO - Database connection closed.
+2024-06-26 13:40:39,113 - INFO - Successfully connected to database: example.db
+2024-06-26 13:40:39,113 - INFO - Successfully connected to database: example.db
+2024-06-26 13:40:39,198 - INFO - Output saved to Output\output.txt
+2024-06-26 13:40:39,199 - INFO - Database connection closed.
+2024-06-26 13:42:24,130 - INFO - Successfully connected to database: example.db
+2024-06-26 13:42:24,131 - INFO - Successfully connected to database: example.db
+2024-06-26 13:42:24,196 - INFO - Output saved to Output\output.txt
+2024-06-26 13:42:24,197 - INFO - Database connection closed.
+2024-06-26 13:43:44,312 - INFO - Successfully connected to database: example.db
+2024-06-26 13:43:44,312 - INFO - Successfully connected to database: example.db
+2024-06-26 13:43:44,385 - INFO - Output saved to Output\output.txt
+2024-06-26 13:43:44,386 - INFO - Database connection closed.
+2024-06-26 13:45:56,174 - INFO - Successfully connected to database: example.db
+2024-06-26 13:45:56,175 - INFO - Successfully connected to database: example.db
+2024-06-26 13:45:56,238 - INFO - Database connection closed.
+2024-06-26 16:26:45,169 - INFO - Successfully connected to database: example.db
+2024-06-26 16:26:45,170 - INFO - Successfully connected to database: example.db
+2024-06-26 16:26:45,226 - INFO - Database connection closed.
+2024-06-26 16:27:29,339 - INFO - Successfully connected to database: example.db
+2024-06-26 16:27:29,339 - INFO - Successfully connected to database: example.db
+2024-06-26 16:27:32,026 - INFO - Database connection closed.
+2024-06-26 16:37:54,126 - INFO - Successfully connected to database: example.db
+2024-06-26 16:37:54,126 - INFO - Successfully connected to database: example.db
+2024-06-26 16:37:57,151 - INFO - Output saved to: Output\output.txt
+2024-06-26 16:37:57,151 - INFO - Database connection closed.
+2024-06-26 16:54:39,130 - INFO - Successfully connected to database: example.db
+2024-06-26 16:54:39,131 - INFO - Successfully connected to database: example.db
+2024-06-26 16:54:42,145 - INFO - Output saved to: Output\output.txt
+2024-06-26 16:54:42,145 - INFO - Database connection closed.
+2024-06-26 18:14:55,894 - INFO - Successfully connected to database: example.db
+2024-06-26 18:14:55,895 - INFO - Successfully connected to database: example.db
+2024-06-26 18:14:59,292 - INFO - Output saved to: Output\output.txt
+2024-06-26 18:14:59,292 - INFO - Database connection closed.
+2024-06-27 11:11:47,921 - INFO - Successfully connected to database: example.db
+2024-06-27 11:11:50,163 - INFO - Successfully connected to database: example.db
+2024-06-27 11:11:52,594 - INFO - Output saved to: Output\output.txt
+2024-06-27 11:11:52,595 - INFO - Database connection closed.
+2024-06-27 11:12:05,461 - INFO - Successfully connected to database: example.db
+2024-06-27 11:12:06,975 - INFO - Successfully connected to database: example.db
+2024-06-27 11:12:09,449 - INFO - Output saved to: Output\output.txt
+2024-06-27 11:12:09,450 - INFO - Database connection closed.
+2024-06-27 11:12:18,735 - INFO - Successfully connected to database: example.db
+2024-06-27 11:12:19,881 - INFO - Successfully connected to database: example.db
+2024-06-27 11:12:22,866 - INFO - Output saved to: Output\output.txt
+2024-06-27 11:12:22,866 - INFO - Database connection closed.
+2024-06-27 16:21:53,720 - INFO - Successfully connected to database: example.db
+2024-06-27 16:21:59,019 - INFO - Successfully connected to database: example.db
+2024-06-27 16:22:01,661 - INFO - Output saved to: Output\output.txt
+2024-06-27 16:22:01,661 - INFO - Database connection closed.
